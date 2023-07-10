@@ -14,6 +14,36 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 
 </div>
 
+If you want you can checkout some of my uni projets down below, as weel as some projects that i do on the side:
+
+## My college projects :floppy_disk:
+<!-- start college projects section -->
+<details>
+<summary><b> Bachelor's degree :books:</b></summary>
+### 1st year
+
+| **UC** (course)                                                                        |      **Linguagem(ns)** (Language(s))      |  **Repositório(s)** (Repository(ies)) |
+|:--:|:--:|:--:|
+|**Programação Funcional** (Functional Programming) | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) | [Exercises]()
+|**Laboratórios de Informática I** (Informatic Labs I) | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) | [Project]()
+|**Programação Imperativa** (Imperative Programming) | ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | [Exercises]()
+|**Laboratórios de Informática II** (Informatic Labs II) | ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | [Project]()
+
+### 2nd year
+
+### 3rd year
+
+</details>
+
+<details open>
+<summary><b> Master's degree :mortar_board:</b></summary>
+
+</details>
+
+## Side Project :floppy_disk:
+<details>
+<summary><b> Currently :calendar_spiral:</b></summary>
+
 <!--
 https://app.flowcv.com/   -> Para fazer curriculos
 
