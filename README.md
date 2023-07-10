@@ -44,9 +44,8 @@ It starts in september :fingers_crossed:
 </details>
 
 ## Side Project :rainbow: 
-<summary><b> Currently :calendar_spiral:</b></summary>
-| **Project** (course)                                                                        |      **Linguagem(ns)** (Language(s))      |  **Repositório(s)** (Repository(ies)) |
-|:--:|:--:|:--:|
+
+
 |**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo]()
 
 
@@ -56,6 +55,8 @@ It starts in september :fingers_crossed:
 https://app.flowcv.com/   -> Para fazer curriculos
 
 https://ileriayo.github.io/markdown-badges/
+
+Por mais try connect me
 
 
 **simaobarroso/simaobarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
