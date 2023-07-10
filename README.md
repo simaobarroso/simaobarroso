@@ -39,15 +39,18 @@ If you want you can checkout some of my uni projets down below, as weel as some 
 
 <details open>
 <summary><b> Master's degree :mortar_board:</b></summary>
-It starts in september :fingers_crossed: 
+It starts in September :fingers_crossed: 
 
-</details>
+
 
 ## Side Project :rainbow: 
-
-
+<details>
+<summary><b> Currently :calendar_spiral:</b></summary>
+  
+|:--:|:--:|:--:|
 |**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo]()
 
+</details>
 
 
 
