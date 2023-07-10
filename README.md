@@ -11,7 +11,7 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 
   <a href="">[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%A3o-barroso-629420244/)</a>
   <a href="">[![Email badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simaoalvimbarroso@gmail.com)</a>
-  <a href="">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(mailto:simaoalvimbarroso@gmail.com)(http://discordapp.com/users/453571816376500244)</a>
+  <a href="">[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/453571816376500244)</a>
 
 </div>
 
