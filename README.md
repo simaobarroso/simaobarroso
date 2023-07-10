@@ -6,6 +6,14 @@ My name is Simão Barroso and I'm currently studying Software Engineering at Uni
 
 If you want to check out my Curriculum vitæ, you can do it [here for a version in Portuguese](https://github.com/simaobarroso/simaobarroso/blob/main/Simao_Barroso_cv.pdf) and [here for a version in English](https://www.youtube.com/watch?v=Qklvh5Cp_Bs).
 
+Here you have several ways to contact me (and please, feel free to do so 😀):
+<div align="center">
+
+  <a href="">[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%A3o-barroso-629420244/)</a>
+  <a href="">[![Email badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simaoalvimbarroso@gmail.com)</a>
+
+</div>
+
 <!--
 https://app.flowcv.com/   -> Para fazer curriculos
 
