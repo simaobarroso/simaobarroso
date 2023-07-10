@@ -79,9 +79,19 @@ It starts in September 🤞
 
 
 
----
 
-<br />
+
+
+## Commits
+<div>
+  AINDA NAO DISPONIVEL
+  
+  ![Snake animation](https://github.com/simaobarroso/simaobarroso/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
@@ -93,16 +103,6 @@ It starts in September 🤞
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  
 </div>
-
-## Commits
-<div>
-  AINDA NAO DISPONIVEL
-  
-  ![Snake animation](https://github.com/simaobarroso/simaobarroso/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br />
 
 <!--
 https://app.flowcv.com/   -> Para fazer curriculos
