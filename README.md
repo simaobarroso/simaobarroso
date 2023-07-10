@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+
+My (cv)[https://github.com/simaobarroso/simaobarroso/blob/main/Simao_Barroso_cv.pdf]
 
 <!--
 **simaobarroso/simaobarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
