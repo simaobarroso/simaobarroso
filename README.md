@@ -79,14 +79,7 @@ It starts in September 🤞
 
 
 
-## Commits
-<div>
-  AINDA NAO DISPONIVEL
-  
-  ![Snake animation](https://github.com/simaobarroso/simaobarroso/blob/output/github-contribution-grid-snake.svg)
 
-</div>
----
 
 <br />
 
@@ -101,7 +94,13 @@ It starts in September 🤞
  
 </div>
 
----
+## Commits
+<div>
+  AINDA NAO DISPONIVEL
+  
+  ![Snake animation](https://github.com/simaobarroso/simaobarroso/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <br />
 
