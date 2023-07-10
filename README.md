@@ -21,6 +21,7 @@ If you want you can checkout some of my uni projets down below, as weel as some 
 <!-- start college projects section -->
 <details>
 <summary><b> Bachelor's degree :books:</b></summary>
+
 ### 1st year
 
 | **UC** (course)                                                                        |      **Linguagem(ns)** (Language(s))      |  **Repositório(s)** (Repository(ies)) |
@@ -38,15 +39,23 @@ If you want you can checkout some of my uni projets down below, as weel as some 
 
 <details open>
 <summary><b> Master's degree :mortar_board:</b></summary>
+It starts in september :fingers_crossed: 
 
 </details>
 
-## Side Project :floppy_disk:
-<details>
+## Side Project :rainbow: 
 <summary><b> Currently :calendar_spiral:</b></summary>
+|**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo]()
+
+
+
+
 
 <!--
 https://app.flowcv.com/   -> Para fazer curriculos
+
+https://ileriayo.github.io/markdown-badges/
+
 
 **simaobarroso/simaobarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
