@@ -15,8 +15,7 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 
 </div>
 
-
-
+<br/><br/> 
 
 <p float="left">
   <a href="https://github.com/simaobarroso">
@@ -35,7 +34,7 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 </div>
 
 
-
+<br/><br/> 
 
 If you want you can checkout some of my uni projets down below, as well as some projects that i do on the side:
 
