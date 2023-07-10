@@ -15,6 +15,25 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 
 </div>
 
+<p float="left">
+  <a href="https://github.com/simaobarroso">
+  <img src="https://github-readme-stats.vercel.app/api?username=simaobarroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru" height="180em"/>
+    </div>
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a href="https://www.uminho.pt/PT">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/EEUMLOGO.png" width="200" /> 
+</p>
+
+<div align="left">
+  <a href="https://github.com/simaobarroso">
+  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaobarroso&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+</div>
+
+
+
+
 If you want you can checkout some of my uni projets down below, as well as some projects that i do on the side:
 
 ## My college projects :floppy_disk:
