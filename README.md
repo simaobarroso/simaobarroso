@@ -49,7 +49,8 @@ It starts in September 🤞
 <details>
 <summary><b> Currently :calendar_spiral:</b></summary>
   
-|**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo]()
+|**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo]() |
+|--------|------------|---------|
 
 </details>
 
