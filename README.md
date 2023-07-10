@@ -1,8 +1,14 @@
-### Hello there! 👋
+### Hello there! 
 
-My [cv](https://github.com/simaobarroso/simaobarroso/blob/main/Simao_Barroso_cv.pdf)
+My name is Simão Barroso and I'm currently studying Software Engineering at University of Minho. 
+
+<!--I finished my licentiate degree in July of 2023 and I'm going to start my masters in September. -->
+
+If you want to check out my Curriculum vitæ, you can do it [here for a version in portuguese](https://github.com/simaobarroso/simaobarroso/blob/main/Simao_Barroso_cv.pdf) and [here for a version in english](https://www.youtube.com/watch?v=Qklvh5Cp_Bs).
 
 <!--
+https://app.flowcv.com/   -> Para fazer curriculos
+
 **simaobarroso/simaobarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
