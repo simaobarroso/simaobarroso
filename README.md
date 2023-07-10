@@ -45,8 +45,9 @@ It starts in september :fingers_crossed:
 
 ## Side Project :rainbow: 
 <summary><b> Currently :calendar_spiral:</b></summary>
+| **Project** (course)                                                                        |      **Linguagem(ns)** (Language(s))      |  **Repositório(s)** (Repository(ies)) |
+|:--:|:--:|:--:|
 |**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo]()
-
 
 
 
