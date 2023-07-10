@@ -46,13 +46,13 @@ It starts in September 🤞
 
 ## Side Project :rainbow: 
 
-<details>
-<summary><b> Currently :calendar_spiral:</b></summary>
+<b> Current 🗓️ </b>
   
 |**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo]() |
 |--------|------------|---------|
 
-</details>
+<b> Other </b>
+|--------|------------|---------|
 
 
 
