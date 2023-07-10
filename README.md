@@ -4,7 +4,7 @@ My name is Simão Barroso and I'm currently studying Software Engineering at Uni
 
 <!--I finished my licentiate degree in July of 2023 and I'm going to start my masters in September. -->
 
-If you want to check out my Curriculum vitæ, you can do it [here for a version in portuguese](https://github.com/simaobarroso/simaobarroso/blob/main/Simao_Barroso_cv.pdf) and [here for a version in english](https://www.youtube.com/watch?v=Qklvh5Cp_Bs).
+If you want to check out my Curriculum vitæ, you can do it [here for a version in Portuguese](https://github.com/simaobarroso/simaobarroso/blob/main/Simao_Barroso_cv.pdf) and [here for a version in English](https://www.youtube.com/watch?v=Qklvh5Cp_Bs).
 
 <!--
 https://app.flowcv.com/   -> Para fazer curriculos
