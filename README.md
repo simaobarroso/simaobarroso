@@ -1,6 +1,6 @@
 ### Hello there! 
 
-My name is Simão Barroso and I'm currently studying Software Engineering at University of Minho. 
+My name is Simão Barroso and I'm currently studying [Software Engineering](https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=4079&catid=12) at University of Minho. 
 
 <!--I finished my licentiate degree in July of 2023 and I'm going to start my masters in September. -->
 
@@ -52,7 +52,7 @@ It starts in September 🤞
 |--------|------------|---------|
 
 <b> Other </b>
-|| ||
+|To| be |filled|
 |--------|------------|---------|
 
 
