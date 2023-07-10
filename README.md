@@ -15,6 +15,8 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 
 </div>
 
+<p></p>
+
 <p float="left">
   <a href="https://github.com/simaobarroso">
   <img src="https://github-readme-stats.vercel.app/api?username=simaobarroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru" height="180em"/>
