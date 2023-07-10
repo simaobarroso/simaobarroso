@@ -15,7 +15,7 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 
 </div>
 
-If you want you can checkout some of my uni projets down below, as weel as some projects that i do on the side:
+If you want you can checkout some of my uni projets down below, as well as some projects that i do on the side:
 
 ## My college projects :floppy_disk:
 <!-- start college projects section -->
@@ -39,15 +39,15 @@ If you want you can checkout some of my uni projets down below, as weel as some 
 
 <details open>
 <summary><b> Master's degree :mortar_board:</b></summary>
-It starts in September :fingers_crossed: 
+It starts in September 🤞
 
 
 
 ## Side Project :rainbow: 
+
 <details>
 <summary><b> Currently :calendar_spiral:</b></summary>
   
-|:--:|:--:|:--:|
 |**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo]()
 
 </details>
