@@ -15,7 +15,8 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 
 </div>
 
-<p></p>
+
+
 
 <p float="left">
   <a href="https://github.com/simaobarroso">
