@@ -29,7 +29,7 @@ Here you have several ways to contact me (and please, feel free to do so 😀):
 
 <div align="left">
   <a href="https://github.com/simaobarroso">
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaobarroso&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaobarroso&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </div>
 
