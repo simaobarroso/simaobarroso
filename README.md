@@ -49,7 +49,7 @@ If you want you can checkout some of my uni projets down below, as well as some 
 | **UC** (course)                                                                        |      **Linguagem(ns)** (Language(s))      |  **Repositório(s)** (Repository(ies)) |
 |:--:|:--:|:--:|
 |**Laboratórios de Informática I** (Informatic Labs I) | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) | [Project](https://github.com/simaobarroso/LI1_Pacman)|
-|**Laboratórios de Informática II** (Informatic Labs II) | ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | [Project]()|
+|**Laboratórios de Informática II** (Informatic Labs II) | ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | [Project](https://github.com/simaobarroso/eipl1g01)|
 
 <!--|**Programação Funcional** (Functional Programming) | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) | [Exercises]()-->
 <!--|**Programação Imperativa** (Imperative Programming) | ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | [Exercises]()-->
