@@ -61,6 +61,7 @@ If you want you can checkout some of my uni projets down below, as well as some 
 
 <details open>
 <summary><b> Master's degree :mortar_board:</b></summary>
+  
 It starts in September 🤞
 
 </details>
