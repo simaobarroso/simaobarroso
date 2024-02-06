@@ -73,7 +73,7 @@ It starts in September 🤞
 <b> Current 🗓️ </b>
   
 <!-- |**ZTM React Native** (App Development) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Repo](https://github.com/simaobarroso/ZTM-React-Native) | -->
-|--------|------------|---------|
+<!--|--------|------------|---------|-->
 
 <b> Other </b>
 |To| be |filled|
